@@ -1,4 +1,4 @@
-# Covid-19 Visualização de dodos e estimação dos parametros da regressão com o OLS
+# Covid-19 Visualização de dados e estimação dos parametros da regressão com o OLS
 Visualização de dados até ao momento dos infetados com Covid-19
 
 ## Fonte dos dados:
