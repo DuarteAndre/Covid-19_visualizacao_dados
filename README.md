@@ -16,3 +16,7 @@ Visualização de dados até ao momento dos infetados com Covid-19
 ## Partilha dos ficheiros:
 - dados.csv https://github.com/dssg-pt/covid19pt-data
 - Meus_testes_COVID.ipynb (exploração dos dados do ficheiro dados.csv)
+
+## Dados por municipio até às 24h do dia 23 de março
+
+https://github.com/DuarteAndre/Covid-19_visualizacao_dados/blob/master/Dados_24-03-2020_Continente.jpeg
