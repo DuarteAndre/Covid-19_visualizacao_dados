@@ -17,7 +17,7 @@ Visualização de dados até ao momento dos infetados com Covid-19
 - dados.csv https://github.com/dssg-pt/covid19pt-data
 - Meus_testes_COVID.ipynb (exploração dos dados do ficheiro dados.csv)
 
-## Dados por municipio até às 24h do dia 23 de março
+## Dados por municipio
 #### Fonte dos dados:
 - Carta Administrativa Oficial de Portugal (CAOP) de 2019 (DGT, 2020)
 - Direção-Geral da Saúde . Relatório de Situação n.º 22 de 24/03/2020 (DGS, 2020)
