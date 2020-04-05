@@ -20,7 +20,7 @@ Visualização de dados até ao momento dos infetados com Covid-19
 ## Dados por municipio
 #### Fonte dos dados:
 - Carta Administrativa Oficial de Portugal (CAOP) de 2019 (DGT, 2020)
-- Direção-Geral da Saúde . Relatório de Situação n.º 22 de 24/03/2020 (DGS, 2020)
+- Direção-Geral da Saúde . Dados provenientes dos Relatórios de Situação (DGS, 2020)
 
 #### Dados espaciais em formato geopackage (Criada no QGIS 3.4 Madeira)
 - Geopackage criada: https://github.com/DuarteAndre/Covid-19_visualizacao_dados/blob/master/Geopackage_COVID.gpkg
